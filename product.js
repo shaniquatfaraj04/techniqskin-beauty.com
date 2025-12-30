@@ -9,7 +9,7 @@ const PRODUCTS = [
     name: "Barrier Balancing Moisturizer",
     description:
       "Nourishing prickly pear cactus and calming bisabolol pair with humectants to enhance moisture and support the skin's texture.",
-    image: "Barrier balancing.png",
+    image: "Images/Barrier balancing.png",
     skinType: ["Dry", "Sensitive"],
     concerns: ["Dehydration"],
     productType: ["Moisturizer"],
@@ -22,7 +22,7 @@ const PRODUCTS = [
     name: "Blemish Spot Treatment",
     description:
       "Our Blemish Spot Treatment is perfect to aid in alleviating active breakouts and treating cystic acne.",
-    image: "Blemishspot.5oz.PNG",
+    image: "Images/Blemishspot.5oz.PNG",
     skinType: ["Acne-Prone", "Oily"],
     concerns: ["Acne"],
     productType: ["Treatment"],
@@ -35,7 +35,7 @@ const PRODUCTS = [
     name: "Charcoal Clay Cleanser",
     description:
       "This cleanser is infused with charcoal and kaolin clay to absorb excess oil and help prevent clogged pores.\n\nBest for normal to oily skin types",
-    image: "charcoalclaycleanser6.4oz.PNG",
+    image: "Images/charcoalclaycleanser6.4oz.PNG",
     skinType: ["Acne-Prone", "Oily"],
     concerns: ["Acne"],
     productType: ["Cleanser"],
@@ -49,7 +49,7 @@ const PRODUCTS = [
     name: "Clarifying Toner Pads",
     description:
       "These clarifying toner pads help refine the look of pores and support clearer-looking skin.",
-    image: "clarifyingpads50pads.PNG",
+    image: "Images/clarifyingpads50pads.PNG",
     skinType: ["Acne-Prone", "Oily"],
     concerns: ["Acne"],
     productType: ["Toner"],
@@ -62,7 +62,7 @@ const PRODUCTS = [
     name: "Cucumber Hydrating Tonerr",
     description:
       "A hydrating toner that helps comfort and refresh the skin while supporting a balanced feel.",
-    image: "cucumbertoner3.3oz.PNG",
+    image: "Images/cucumbertoner3.3oz.PNG",
     skinType: ["Dry", "Sensitive"],
     concerns: ["Dehydration"],
     productType: ["Toner"],
@@ -76,7 +76,7 @@ const PRODUCTS = [
     name: "Glycolic and Retinol Pads",
     description:
       "Exfoliating pads designed to help smooth texture and support a more refined, even-looking complexion.",
-    image: "glyandretpads50.PNG",
+    image: "Images/glyandretpads50.PNG",
     skinType: ["Mature"],
     concerns: ["Aging Skin", "Texture", "Hyperpigmentation"],
     productType: ["Exfoliant", "Toner"],
@@ -89,7 +89,7 @@ const PRODUCTS = [
     name: "Green Tea Citrus Cleanser",
     description:
       "A refreshing cleanser to help lift impurities while leaving skin feeling clean and comfortable.",
-    image: "greteacleanser6.4oz.PNG",
+    image: "Images/greteacleanser6.4oz.PNG",
     skinType: ["All"],
     concerns: ["Dullness"],
     productType: ["Cleanser"],
@@ -103,7 +103,7 @@ const PRODUCTS = [
     name: "Honey Brightening Cleanser",
     description:
       "A brightening cleanser that supports a clearer-looking, more radiant complexion.",
-    image: "HoneyBrghtCleanser6.4.PNG",
+    image: "Images/HoneyBrghtCleanser6.4.PNG",
     skinType: ["All"],
     concerns: ["Dullness", "Hyperpigmentation"],
     productType: ["Cleanser"],
@@ -117,7 +117,7 @@ const PRODUCTS = [
     name: "Hydrating Moisturizer",
     description:
       "A daily moisturizer designed to support hydration and leave skin feeling smooth and balanced.",
-    image: "Hydrating toner cleanser.png",
+    image: "Images/Hydrating toner cleanser.png",
     skinType: ["Dry"],
     concerns: ["Dehydration"],
     productType: ["Moisturizer"],
@@ -130,7 +130,7 @@ const PRODUCTS = [
     name: "Mandelic Brightening Serum",
     description:
       "A brightening serum formulated to support a more even-looking tone and improved radiance.",
-    image: "mandelicSerum1.PNG",
+    image: "Images/mandelicSerum1.PNG",
     skinType: ["All"],
     concerns: ["Dullness", "Hyperpigmentation"],
     productType: ["Serum"],
@@ -143,7 +143,7 @@ const PRODUCTS = [
     name: "Mint Refining Toner",
     description:
       "A refining toner designed to help balance the look of oil and support a refreshed finish.",
-    image: "Mintreftoner3.3oz.PNG",
+    image: "Images/Mintreftoner3.3oz.PNG",
     skinType: ["Oily"],
     concerns: ["Acne"],
     productType: ["Toner"],
@@ -157,7 +157,7 @@ const PRODUCTS = [
     name: "Pomegranate Antioxidant Cleanser",
     description:
       "An antioxidant cleanser designed to support a clean feel while helping maintain a bright-looking complexion.",
-    image: "2ozpomcleanser.PNG",
+    image: "Images/2ozpomcleanser.PNG",
     skinType: ["All"],
     concerns: ["Dullness", "Hyperpigmentation"],
     productType: ["Cleanser"],
@@ -171,7 +171,7 @@ const PRODUCTS = [
     name: "Retinol 2% Scrub",
     description:
       "A smoothing scrub formulated to help refine the feel of texture and support a polished look.",
-    image: "retexfoscrub1.7oz.PNG",
+    image: "Images/retexfoscrub1.7oz.PNG",
     skinType: ["Mature"],
     concerns: ["Aging Skin", "Texture"],
     productType: ["Exfoliant"],
@@ -184,7 +184,7 @@ const PRODUCTS = [
     name: "Revitalizing Cucumber Treatment",
     description:
       "A soothing treatment designed to comfort and refresh the skin with a hydrated, calm finish.",
-    image: "revcuctre.png",
+    image: "Images/revcuctre.png",
     skinType: ["Sensitive"],
     concerns: ["Dehydration"],
     productType: ["Mask"],
@@ -197,7 +197,7 @@ const PRODUCTS = [
     name: "Vita C Green Tea Serum",
     description:
       "A vitamin C serum designed to support brightness and a more even-looking skin tone.",
-    image: "VEGreenteaSerum1oz.PNG",
+    image: "Images/VEGreenteaSerum1oz.PNG",
     skinType: ["All"],
     concerns: ["Dullness", "Hyperpigmentation"],
     productType: ["Serum"],
